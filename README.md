@@ -1,4 +1,4 @@
-<h1 style = "background: blue">Дароу</h1>
+<h1 style = "background: green">•€[0;+inf)</h1>
 
 
 <!---
